@@ -1,0 +1,28 @@
+name: Yasha Tântrica
+favicon: null
+layout_spectrum: 0.7784444345161319
+typography_spectrum: 0.5400713386479765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6686971979215741
+  lightness: 0.5556025560945272
+  saturation: 0.4314372921362519
+  rhythmicContrast: 0.7817017564084381
+purpose: []
